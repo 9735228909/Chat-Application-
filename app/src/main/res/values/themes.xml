@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MessagesApp" parent="Theme.AppCompat.Light">
+
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#7DE622</item>
+    </style>
+
+    <style name="Theme.MessagesApp" parent="Base.Theme.MessagesApp" />
+</resources>

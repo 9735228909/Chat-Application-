@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Messages App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="alredy_have_account_login_now">Alredy have account? login now</string>
+    <string name="don_t_have_an_account_signup_now">Don\'t have an account?Signup Now</string>
+    <string name="ahi">Ahi</string>
+    <string name="profile">Profile</string>
+    <string name="camera">Camera</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="this_is_sent_message">This is sent message</string>
+    <string name="this_is_recevie_message">This_is_recevie_message</string>
+    <string name="This_is_recevie_message">This is recevie message</string>
+</resources>

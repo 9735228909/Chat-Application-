@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12862994631",
+    "project_id": "messages-app-de19d",
+    "storage_bucket": "messages-app-de19d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12862994631:android:bfa7e503cd7a16e2efa6e2",
+        "android_client_info": {
+          "package_name": "com.abhishek.messagesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Eyw_MVtcipybZrCrFDYFDlB3E0RDmrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
